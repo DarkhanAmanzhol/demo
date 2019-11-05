@@ -1,14 +1,81 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+   news: [
+      {
+         author: "",
+         category: [
+            "regional"
+         ],
+         description: "Addressing workplace romance can be complicated, but many companies remove any grey areas by forbidding managers. ",
+         id: "c100a920-ff50-47bc-86f6-04efda7d06c7",
+         image: "https://shawglobalnews.files.wordpress.com/2019/11/work-spouse.jpg?quality=70&strip=all&w=720&h=379&crop=1",
+         language: "en",
+         published: "2019-11-05 17:02:18 +0000",
+         title: "Consent may not be 'truly possible' in some office romances: experts",
+         url: "https://globalnews.ca/news/6128365/mcdonalds-ceo-work-relationship/"
+      },
+      {
+         author: "Adam Wallis",
+         category: [
+            "regional"
+         ],
+         description: ""He's stealing the thunder from [songwriter] Frank Loesser's song and from my dad," Deana Martin said during a recent interview.",
+         id: "adc491c3-d5e2-4b0c-b5a6-32fdc4af4b84",
+         image: "https://shawglobalnews.files.wordpress.com/2019/11/john-legend-deana-martin.jpg?quality=70&strip=all&crop=0px%2C0px%2C1024px%2C541px&resize=720%2C379",
+         language: "en",
+         published: "2019-11-05 17:02:18 +0000",
+         title: "Dean Martin's daughter criticizes John Legend after singer changes 'Baby It's Cold Outside' lyrics",
+         url: "https://globalnews.ca/news/6128336/dean-martins-daughter-john-legend-baby-its-cold-outside/"
+      },
+      {
+         author: "Krista Hessey",
+         category: [
+            "regional"
+         ],
+         description: "Watch Israel-Palestine: How Trump cancelled peace in the Middle East Video Online, on GlobalNews.ca",
+         id: "b92c89a1-1db9-42e9-a499-45665c4a0569",
+         image: "https://i1.wp.com/media.globalnews.ca/videostatic/news/7c4vxtgqyi-g8imrftirm/MiddleEastPeacePlan_Thumbnail.jpg?w=500&quality=70&strip=all",
+         language: "en",
+         published: "2019-11-05 17:02:18 +0000",
+         title: "Israel-Palestine: How Trump cancelled peace in the Middle East",
+         url: "https://globalnews.ca/video/6129034/israel-palestine-how-trump-cancelled-peace-in-the-middle-east/"
+      },
+      {
+         author: "",
+         category: [
+            "regional"
+         ],
+         description: "The letter includes 29 simple graphs illustrating everything from atmospheric concentration of greenhouse gases to livestock numbers to extreme weather events and wildfire losses.",
+         id: "08a814a0-2b72-48a3-a524-cf3ff7ab8ac4",
+         image: "https://shawglobalnews.files.wordpress.com/2019/11/cpt10827424-1.jpg?quality=70&strip=all&w=720&h=379&crop=1",
+         language: "en",
+         published: "2019-11-05 17:02:18 +0000",
+         title: "More than 11,000 scientists declare global climate emergency in signed letter",
+         url: "https://globalnews.ca/news/6128772/scientists-letter-climate-emergency/"
+      },
+      {
+         author: "",
+         category: [
+            "regional"
+         ],
+         description: "The 22-year-old K-Pop icon admitted he was at fault.",
+         id: "50dbcd5b-a708-4806-8687-9e0a846ea688",
+         image: "https://shawglobalnews.files.wordpress.com/2019/11/gettyimages-1136456187.jpg?quality=70&strip=all&crop=0px%2C70px%2C1024px%2C541px&resize=720%2C379",
+         language: "en",
+         published: "2019-11-05 17:02:18 +0000",
+         title: "BTS' Jungkook under police investigation after car collision",
+         url: "https://globalnews.ca/news/6128818/bts-jungkook-car-crash-police-investigation/"
+      },
+      {
+         author: "",
+         category: [
+            "regional"
+         ],
+         description: "Watch Shooting by drug cartel in Mexico leaves at least 9 Americans from Mormon family dead Video Online, on GlobalNews.ca",
+         id: "1c0a59a4-6d17-4aa8-bdaf-238dae1cba3b",
+         image: "https://i2.wp.com/media.globalnews.ca/videostatic/news/adfdpjuy9z-kag4lgs5wf/familydeath2.jpg?w=500&quality=70&strip=all",
+         language: "en",
+         published: "2019-11-05 17:02:18 +0000",
+         title: "Shooting by drug cartel in Mexico leaves at least 9 Americans from Mormon family dead",
+         url: "https://globalnews.ca/video/6129168/shooting-by-drug-cartel-in-mexico-leaves-at-least-9-americans-from-mormon-family-dead/"
+      },
+     }
